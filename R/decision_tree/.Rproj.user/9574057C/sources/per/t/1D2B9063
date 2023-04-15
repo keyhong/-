@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599127866138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2790164804",
+    "id" : "1D2B9063",
+    "lastKnownWriteTime" : 1599802843,
+    "last_content_update" : 1599802843432,
+    "path" : "C:/Users/CPBUserN/Desktop/농협/의사결정나무/2C50.R",
+    "project_path" : "2C50.R",
+    "properties" : {
+        "cursorPosition" : "6,66",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

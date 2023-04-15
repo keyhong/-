@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599445686778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "616964239",
+    "id" : "976F136C",
+    "lastKnownWriteTime" : 1599801744,
+    "last_content_update" : 1599801744994,
+    "path" : "C:/Users/CPBUserN/Desktop/농협/의사결정나무/전처리_2.R",
+    "project_path" : "전처리_2.R",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

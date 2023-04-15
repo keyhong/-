@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599127869370.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4152565999",
+    "id" : "F2EE631A",
+    "lastKnownWriteTime" : 1599802843,
+    "last_content_update" : 1599802843451,
+    "path" : "C:/Users/CPBUserN/Desktop/농협/의사결정나무/3CART(지니지수).R",
+    "project_path" : "3CART(지니지수).R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
