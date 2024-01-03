@@ -7,7 +7,7 @@
 수행
 ~~~~
 - BigData 6개월 국비교육 내부 13개 팀이 참여한 외부 기관(농협 양곡) 데이터 컨설팅 프로젝트 참여
-- Mon ~ Fri / 09~17 / 1 Month 프로젝트 수행
+- ``Mon ~ Fri`` / ``09 ~ 17`` / ``1 Month`` 프로젝트 수행
 
 역할
 ~~~~
@@ -26,6 +26,12 @@
 ~~~~~
 프로젝트 대상
 
+.. image:: https://github.com/keyhong/nonghyup-food-grain-bigdata-consulitng/blob/main/image/result.png
+    :height: 300
+    :width: 300
+
+
+
 최종 소비자 맞춤형 잡곡 블렌딩 컨설팅 제안서
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-presentation.pdf
+nonghyup-food-grain-bigdata-consulitng/presentation.pdf
